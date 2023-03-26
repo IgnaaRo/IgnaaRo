@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Ignacio Romero</h1>
 
-![](https://github.com/IgnaaRo/IgnaaRo/blob/main/logo.png)
+[![tinywow-logo-17713381.png](https://i.postimg.cc/d3gvv1Mr/tinywow-logo-17713381.png)](https://postimg.cc/JH3S5Rzz)
 
 <h3 align="left">A passionate frontend developer from Argentina / Mendoza .Studying at the faculty IES Manuel Belgrano for a degree in Software Development. I passed 1st year, starting 2nd .</h3>
 
