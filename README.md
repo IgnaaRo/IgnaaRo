@@ -1,9 +1,13 @@
 <h1 align="left">Hi 👋, I'm Ignacio Romero</h1>
 <h3 align="left">A passionate frontend developer from Argentina / Mendoza .Studying at the faculty IES Manuel Belgrano for a degree in Software Development. I passed 1st year, starting 2nd .</h3>
 
-<h3 align="column">
+<h3 >
   ◻  1st ✅
+</h3>
+<h3 >
   ◻  2nd 
+</h3>
+<h3 >
   ◻ 3rd 
 </h3>
 
