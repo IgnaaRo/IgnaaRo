@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Ignacio Romero</h1>
-
-▪▪▪▪▪▪▪▪[![logo-2.png](https://i.postimg.cc/pVfgLqD3/logo-2.png)](https://postimg.cc/xqdssGpP)▪▪▪▪▪▪▪▪
-
+<p align="center">
+<p/>
 <h3 align="left">A passionate frontend developer from Argentina / Mendoza .Studying at the faculty IES Manuel Belgrano for a degree in Software Development. I passed 1st year, starting 2nd .</h3>
 
 <h3 >
