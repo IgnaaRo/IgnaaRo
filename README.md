@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ignacio Romero</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
+[![logo.png](https://i.postimg.cc/43ZR4VrJ/logo.png)](https://postimg.cc/TKk4CLdS)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/#5858" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5858" height="30" width="40" /></a>
